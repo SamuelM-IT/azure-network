@@ -1,8 +1,7 @@
 ![wireshark pic](https://github.com/user-attachments/assets/f1bbff24-3ec3-4d8f-8056-f1951cd27574)
 
-Inspecting Traffic Between Azure Virtual Machines using Wireshark</h1>
+<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines using Wireshark</h1>
 In this tutorial, we will observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
